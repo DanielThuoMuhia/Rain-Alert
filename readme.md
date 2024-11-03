@@ -1,4 +1,4 @@
-# Weather Notification Service
+# Rain Alert
 
 This Python script sends a notification via SMS using Twilio if it detects rain in the weather forecast for Nairobi. The script retrieves weather data from the OpenWeather API.
 
